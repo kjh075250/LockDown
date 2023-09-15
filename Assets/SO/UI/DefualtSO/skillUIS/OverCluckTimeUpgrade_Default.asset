@@ -23,4 +23,4 @@ MonoBehaviour:
   currentLevel: 0
   maxLevel: 4
   thisUIEventFlag: 8
-  defaultData: {fileID: 0}
+  defaultData: {fileID: 11400000}

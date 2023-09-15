@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c61fe29efab69e24abd0f55c7c345798, type: 3}
   m_Name: EnemySO_2
   m_EditorClassIdentifier: 
-  attackDamage: 30
+  attackDamage: 12
   moveSpeed: 2.5
   hp: 75
   sprite: {fileID: 1354077399, guid: 63572e95d15adca488259cadaf8246fc, type: 3}

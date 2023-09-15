@@ -52,9 +52,9 @@ public class DataManager : MonoBehaviour
 
     void Start()
     {
-        path = Path.Combine(Application.dataPath + "/Data/", "database.json");
-        JsonSave();
+        path = Application.persistentDataPath + "/Data.json";
         JsonLoad();
+        JsonSave();
     }
 
     public void JsonLoad()

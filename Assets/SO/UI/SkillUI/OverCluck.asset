@@ -19,7 +19,7 @@ MonoBehaviour:
   nowStatusText: 0
   nowStatus: 0
   value: 0
-  icon: {fileID: -1375164850, guid: e714578010132904584eed30b2f74784, type: 3}
+  icon: {fileID: -411398082, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
   upgradeCost: 2000
   costIncreaseRatio: 0
   currentLevel: 0

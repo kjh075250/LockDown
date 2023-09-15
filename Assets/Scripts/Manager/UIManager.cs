@@ -178,7 +178,7 @@ public class UIManager : MonoBehaviour
     void RaidEndText()
     {
         Raidtext.text = "습격 종료";
-        if (EnemyManager.Instance.EnemySOList.Count - 1 >= GameManager.Instance.GetWave())
+        if (EnemyManager.Instance.EnemySOList.Count - 1 <= GameManager.Instance.GetWave())
             RaidButton.interactable = false;
         else
             RaidButton.interactable = true;

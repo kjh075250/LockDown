@@ -18,11 +18,11 @@ MonoBehaviour:
   currentGold: 0
   currentWave: 0
   defaultAttackDelay: 1
-  defaultAttackDamage: 10
+  defaultAttackDamage: 30
   laserAttack_LaserCount: 1
-  laserAttack_ChainLaserLength: 3
-  laserAttack_ChainLaserCount: 1
-  laserAttackDamage: 15
+  laserAttack_ChainLaserLength: 5
+  laserAttack_ChainLaserCount: 2
+  laserAttackDamage: 30
   electricFieldCooltime: 5
   IsPurchaseMissile: 1
   IsPurchaseOverCluck: 1

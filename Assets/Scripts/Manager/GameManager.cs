@@ -93,6 +93,5 @@ public class GameManager : MonoBehaviour
     public void GameQuit()
     {
         DataManager.Instance.JsonSave();
-        Application.Quit();
     }
 }

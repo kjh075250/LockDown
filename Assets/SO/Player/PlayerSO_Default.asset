@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHp: 1000
   maxHp: 1000
+  regenHP: 0
   currentGold: 0
   currentWave: 0
   defaultAttackDelay: 1
@@ -23,4 +24,7 @@ MonoBehaviour:
   laserAttack_ChainLaserCount: 1
   laserAttackDamage: 15
   electricFieldCooltime: 5
+  IsPurchaseMissile: 1
+  IsPurchaseOverCluck: 1
+  IsPurchaseHyperLaser: 1
   defaultData: {fileID: 11400000}

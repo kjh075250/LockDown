@@ -17,8 +17,8 @@ MonoBehaviour:
   nowStatusText: "\uD604\uC7AC \uBBF8\uC0AC\uC77C \uC218"
   nowStatus: 25
   value: 25
-  icon: {fileID: -1375164850, guid: e714578010132904584eed30b2f74784, type: 3}
-  upgradeCost: 150000
+  icon: {fileID: 1009754216, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
+  upgradeCost: 15000
   costIncreaseRatio: 10
   currentLevel: 0
   maxLevel: 5

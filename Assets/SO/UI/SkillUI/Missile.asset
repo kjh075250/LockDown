@@ -18,10 +18,10 @@ MonoBehaviour:
   nowStatusText: 
   nowStatus: 0
   value: 0
-  icon: {fileID: -1375164850, guid: e714578010132904584eed30b2f74784, type: 3}
-  upgradeCost: 0
+  icon: {fileID: 1009754216, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
+  upgradeCost: 2500
   costIncreaseRatio: 0
-  currentLevel: 1
+  currentLevel: 0
   maxLevel: 1
   thisUIEventFlag: 9
   defaultData: {fileID: 11400000, guid: f398b5616593d5f478b5dca5a00b1df1, type: 2}

@@ -21,6 +21,6 @@ MonoBehaviour:
   upgradeCost: 100
   costIncreaseRatio: 15
   currentLevel: 0
-  maxLevel: 3
+  maxLevel: 7
   thisUIEventFlag: 4
   defaultData: {fileID: 11400000}

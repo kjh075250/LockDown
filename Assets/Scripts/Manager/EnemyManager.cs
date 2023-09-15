@@ -27,7 +27,7 @@ public class EnemyManager : MonoBehaviour
     public List<EnemySO> EnemySOList => enemySOList;
 
     [SerializeField] float enemySummonDelay = 0.1f;
-    float setenemySummonDelay = 0.12f;
+    float setenemySummonDelay = 0.35f;
     [SerializeField] int MaxEnemyCount;
 
     float time_SummonTime;

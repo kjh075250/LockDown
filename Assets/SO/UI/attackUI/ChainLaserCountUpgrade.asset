@@ -16,8 +16,8 @@ MonoBehaviour:
   summary: "\uD55C\uBC88 \uCCB4\uC778 \uB420 \uB54C \uB098\uAC00\uB294 \uB808\uC774\uC800\uC758
     \uC218 +1"
   nowStatusText: "\uD604\uC7AC \uB808\uC774\uC800 \uC218 "
-  nowStatus: 1
-  value: 1
+  nowStatus: 2
+  value: 2
   icon: {fileID: -997015134, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
   upgradeCost: 500
   costIncreaseRatio: 25

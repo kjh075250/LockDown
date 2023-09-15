@@ -23,5 +23,5 @@ MonoBehaviour:
   costIncreaseRatio: 0
   currentLevel: 0
   maxLevel: 1
-  thisUIEventFlag: 8
-  defaultData: {fileID: 11400000, guid: cfaa1b20e5157d246868e36d65a24eff, type: 2}
+  thisUIEventFlag: 9
+  defaultData: {fileID: 11400000}
