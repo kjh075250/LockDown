@@ -24,7 +24,7 @@ MonoBehaviour:
   laserAttack_ChainLaserCount: 1
   laserAttackDamage: 15
   electricFieldCooltime: 5
-  IsPurchaseMissile: 0
-  IsPurchaseOverCluck: 0
-  IsPurchaseHyperLaser: 0
+  IsPurchaseMissile: 1
+  IsPurchaseOverCluck: 1
+  IsPurchaseHyperLaser: 1
   defaultData: {fileID: 11400000, guid: 5df6ca3ce5b9e88459029c2efbd65103, type: 2}

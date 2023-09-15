@@ -15,12 +15,12 @@ MonoBehaviour:
   _name: "\uC790\uAE30\uC7A5 \uBC29\uCD9C \uAC15\uD654"
   summary: "\uC790\uAE30\uC7A5 \uBC29\uCD9C \uCFE8\uD0C0\uC784 \uAC10\uC18C + 10%"
   nowStatusText: "\uD604\uC7AC \uC790\uAE30\uC7A5 \uBC29\uCD9C \uCFE8\uD0C0\uC784"
-  nowStatus: 4.05
+  nowStatus: 5
   value: 5
   icon: {fileID: 873089724, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
-  upgradeCost: 1500
+  upgradeCost: 100
   costIncreaseRatio: 15
-  currentLevel: 1
-  maxLevel: 3
+  currentLevel: 0
+  maxLevel: 5
   thisUIEventFlag: 4
   defaultData: {fileID: 11400000, guid: 2e8281558cf45c241a35ebecea304721, type: 2}

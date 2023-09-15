@@ -50,6 +50,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] Button RaidButton;
     [SerializeField] List<Image> skillImage;
     [SerializeField] List<UI_UpgradeButtons> ui_Upgrades;
+    public List<UI_UpgradeButtons> Ui_Upgrades => ui_Upgrades;
 
     [SerializeField] List<Button> uiPanelButtons;
     [SerializeField] List<GameObject> uiPanels;
@@ -283,4 +284,11 @@ public class UIManager : MonoBehaviour
         Time.timeScale = 0f;
     }
 
+    public void SetUIJsonData(SaveData saveData)
+    {
+        for(int i = 0; i < ui_Upgrades.Count; i++)
+        {
+            ui_Upgrades[i].ThisUISO.SetJSonUIData(saveData, i);
+        }
+    }
 }

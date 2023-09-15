@@ -104,4 +104,24 @@ public class PlayerStatSO : ScriptableObject
         laserAttackDamage = _playerStatSO.LaserAttackDamage;
         electricFieldCooltime = _playerStatSO.ElectricFieldCooltime;
     }
+
+    public void SetJsonData(SaveData saveData)
+    {
+        currentHp = saveData.currentHp;
+        maxHp = saveData.maxHp;
+        regenHP = saveData.regenHP;
+        currentGold = saveData.currentGold;
+        currentWave = saveData.currentWave;
+        defaultAttackDelay = saveData.defaultAttackDelay;
+        defaultAttackDamage = saveData.defaultAttackDamage;
+        laserAttack_LaserCount = saveData.laserAttack_LaserCount;
+        laserAttack_ChainLaserLength = saveData.laserAttack_ChainLaserLength;
+        laserAttack_ChainLaserCount = saveData.laserAttack_ChainLaserCount;
+        laserAttackDamage = saveData.laserAttackDamage;
+        electricFieldCooltime = saveData.electricFieldCooltime;
+
+        IsPurchaseMissile = saveData.IsPurchaseMissile;
+        IsPurchaseOverCluck = saveData.IsPurchaseOverCluck;
+        IsPurchaseHyperLaser = saveData.IsPurchaseHyperLaser;
+    }
 }

@@ -90,4 +90,19 @@ public class UISO : ScriptableObject
          maxLevel = uiSO.MaxLevel;
     }
 
+    public void SetJSonUIData(SaveData saveData, int index)
+    {
+        _name = saveData._name[index];
+        summary = saveData.summary[index];
+        nowStatusText = saveData.nowStatusText[index];
+        nowStatus = saveData.nowStatus[index];
+        value = saveData.value[index];
+        icon = saveData.icon[index];
+        upgradeCost = saveData.upgradeCost[index];
+        costIncreaseRatio = saveData.costIncreaseRatio[index];
+        currentLevel = saveData.currentLevel[index];
+        maxLevel = saveData.maxLevel[index];
+        thisUIEventFlag = saveData.thisUIEventFlag[index];
+    }
+
 }
