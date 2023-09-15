@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackDamage: 75
   moveSpeed: 2.5
-  hp: 150
+  hp: 120
   sprite: {fileID: -351560545, guid: 0df268dbc9071d2469fd3d36f9aaa32d, type: 3}
-  coin: 2412
+  coin: 2804

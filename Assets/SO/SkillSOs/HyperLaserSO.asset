@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: "\uD558\uC774\uD37C \uB808\uC774\uC800!"
   icon: {fileID: 1075459256, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
-  skillImage: {fileID: 1281219660, guid: 6cf3d6fd856e18d45872d064b40b0eb1, type: 3}
+  skillImage: {fileID: -1344646278, guid: 3beab11d2df97214c978b66f8692247b, type: 3}
   skill: {fileID: -883563268805333909, guid: 38171c183341a6f4981855d5adbdb931, type: 3}
   coolTime: 30

@@ -16,4 +16,4 @@ MonoBehaviour:
   moveSpeed: 2.5
   hp: 30
   sprite: {fileID: 875040378, guid: 40ac213ad63bdb74f9c80fe5eb28ef72, type: 3}
-  coin: 331
+  coin: 596

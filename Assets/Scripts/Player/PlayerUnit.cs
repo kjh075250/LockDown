@@ -8,6 +8,7 @@ public class PlayerUnit : UnitBase
     private int needLaserCount = 5;
 
     [SerializeField] PlayerStatSO playerStat;
+    public PlayerStatSO PlayerStat => playerStat;
 
     [SerializeField] PlayerDefaultAttack defaultAttack;
     [SerializeField] PlayerLaserAttack laserAttack;

@@ -20,7 +20,6 @@ public class PlayerStatSO : ScriptableObject
     [SerializeField] int laserAttack_ChainLaserLength;
     [SerializeField] int laserAttack_ChainLaserCount;
     [SerializeField] int laserAttackDamage;
-
     [SerializeField] float electricFieldCooltime;
 
     public bool IsPurchaseMissile;
@@ -66,7 +65,6 @@ public class PlayerStatSO : ScriptableObject
     {
         maxHp = _maxhp;
     }
-
 
     public void AddDefaultAttackValue(float _delay, int _damage)
     {
