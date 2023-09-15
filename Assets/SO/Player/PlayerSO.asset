@@ -22,7 +22,7 @@ MonoBehaviour:
   laserAttack_LaserCount: 1
   laserAttack_ChainLaserLength: 5
   laserAttack_ChainLaserCount: 2
-  laserAttackDamage: 30
+  laserAttackDamage: 25
   electricFieldCooltime: 5
   IsPurchaseMissile: 1
   IsPurchaseOverCluck: 1
