@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d25fc0639463943ab38df4450cac40, type: 3}
+  m_Name: MissileSO
+  m_EditorClassIdentifier: 
+  _name: "\uBBF8\uC0AC\uC77C \uD3ED\uACA9!!"
+  icon: {fileID: 1009754216, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
+  skillImage: {fileID: 21300000, guid: 13ef29ba47b6d2b4d85c74c54fc381af, type: 3}
+  skill: {fileID: 1927779080798187449, guid: 40ed761d1a3ddf9468958e6f42d63206, type: 3}
+  coolTime: 15

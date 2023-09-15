@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b146a0902eed843b96681840e9d46e, type: 3}
+  m_Name: ElectricFieldUpgrade_Default
+  m_EditorClassIdentifier: 
+  _name: "\uC790\uAE30\uC7A5 \uBC29\uCD9C \uAC15\uD654"
+  summary: "\uC790\uAE30\uC7A5 \uBC29\uCD9C \uCFE8\uD0C0\uC784 \uAC10\uC18C + 10%"
+  nowStatusText: "\uD604\uC7AC \uC790\uAE30\uC7A5 \uBC29\uCD9C \uCFE8\uD0C0\uC784"
+  nowStatus: 5
+  value: 5
+  icon: {fileID: 873089724, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
+  upgradeCost: 100
+  costIncreaseRatio: 15
+  currentLevel: 0
+  maxLevel: 3
+  thisUIEventFlag: 4
+  defaultData: {fileID: 11400000}

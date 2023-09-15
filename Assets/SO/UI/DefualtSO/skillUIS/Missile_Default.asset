@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b146a0902eed843b96681840e9d46e, type: 3}
+  m_Name: Missile_Default
+  m_EditorClassIdentifier: 
+  _name: "\uBBF8\uC0AC\uC77C \uD3ED\uACA9"
+  summary: "\uAC15\uB825\uD55C \uBBF8\uC0AC\uC77C\uB4E4\uC744 \uBC1C\uC0AC\uD574
+    \uC8FC\uBCC0 \uC801\uB4E4\uC744 \uACF5\uACA9\uD569\uB2C8\uB2E4."
+  nowStatusText: 
+  nowStatus: 0
+  value: 0
+  icon: {fileID: 1009754216, guid: 4cf32a2128120a5409e1c9d3dd523865, type: 3}
+  upgradeCost: 2500
+  costIncreaseRatio: 0
+  currentLevel: 0
+  maxLevel: 1
+  thisUIEventFlag: 8
+  defaultData: {fileID: 11400000, guid: cfaa1b20e5157d246868e36d65a24eff, type: 2}

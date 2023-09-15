@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90b146a0902eed843b96681840e9d46e, type: 3}
+  m_Name: PlayerHPUpgrade
+  m_EditorClassIdentifier: 
+  _name: "\uCD5C\uB300 \uCCB4\uB825 \uAC15\uD654"
+  summary: "\uCD5C\uB300 \uCCB4\uB825 +250"
+  nowStatusText: "\uD604\uC7AC \uCD5C\uB300 \uCCB4\uB825 "
+  nowStatus: 1000
+  value: 1000
+  icon: {fileID: -1375164850, guid: e714578010132904584eed30b2f74784, type: 3}
+  upgradeCost: 1000
+  costIncreaseRatio: 5
+  currentLevel: 0
+  maxLevel: 20
+  thisUIEventFlag: 12
+  defaultData: {fileID: 11400000, guid: 19d0c0418df09bb46a777def87e7be96, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d93c65939a20414a9e9ba5c0a50fcee, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  currentHp: 1000
+  maxHp: 1000
+  regenHP: 325
+  currentGold: 0
+  currentWave: 0
+  defaultAttackDelay: 1
+  defaultAttackDamage: 10
+  laserAttack_LaserCount: 1
+  laserAttack_ChainLaserLength: 3
+  laserAttack_ChainLaserCount: 1
+  laserAttackDamage: 15
+  electricFieldCooltime: 5
+  IsPurchaseMissile: 1
+  IsPurchaseOverCluck: 1
+  IsPurchaseHyperLaser: 1
+  defaultData: {fileID: 11400000, guid: 5df6ca3ce5b9e88459029c2efbd65103, type: 2}
